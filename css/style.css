@@ -5,7 +5,6 @@ html, body {
 	font-family: 'Roboto Mono', Helvetica, sans-serif;
 	margin: 0;
 }
-
 .valign-wrapper {
   display: -webkit-flex;
   display: -ms-flexbox;
@@ -105,4 +104,19 @@ section {
 }
 #section-team a:hover::after {
   width: 100%;
+}
+@media (max-width: 600px) {
+	* {
+		text-align: center;
+	}
+	#section-header {
+		min-height: 100vh;
+	}
+	#section-about h2, #section-team h2 {
+		text-align: left;
+		font-size: 2.2em;
+	}
+	#section-about p {
+		font-size: 1.5em;
+	}
 }
