@@ -35,6 +35,8 @@ section {
 	background-size: cover;
 	color: white;
 	min-height: 50vh;
+	padding-left: 2vw;
+	padding-right: 2vw;
 }
 #section-header h1 {
 	font-weight: 700;
