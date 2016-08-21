@@ -30,7 +30,7 @@ section {
 }
 #section-header {
 	text-align: center;
-	background-image: url(http://wallpoper.com/images/00/45/09/73/space-colors-blue-purple-stars_00450973.jpg);
+	background-image: url(/img/space-background.jpg);
 	background-attachment: fixed;
 	background-size: cover;
 	color: white;
@@ -68,7 +68,7 @@ section {
 }
 
 #section-team {
-	background-image: url(http://wallpoper.com/images/00/45/09/73/space-colors-blue-purple-stars_00450973.jpg);
+	background-image: url(/img/space-background.jpg);
 	background-attachment: fixed;
 	background-size: cover;
 	color: white;
